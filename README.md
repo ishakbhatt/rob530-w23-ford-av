@@ -1,8 +1,6 @@
 # ROB 530 Team 23: Particle Filter-Based Localization and Continuous CSM Mapping for the Ford AV Dataset
 This project extends algorithmic work done for the [Ford Autonomous Vehicle dataset](https://avdata.ford.com/). Given the existing work in the Ford AV dataset, we proposed and implemented particle filter-based localization as an improvement to the EKF framework as well as a baseline mapping algorithm. Eventually, this work can enable full online SLAM in the Ford AV dataset.
 
-For full results and discussion, see our [final presentation slides](https://docs.google.com/presentation/d/1TLR9U1n9wFX8QCuJQftZjpha_fBKxPrHPW6eUaHERZc/edit#slide=id.g2188f2d8693_0_0) for ROB 530: Mobile Robotics in Winter 2023 at The University of Michigan.
-
 ## Localization
 
 ### Particle Filter
